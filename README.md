@@ -1,3 +1,17 @@
+# README
+
+## Netflix React Site
+
+![](images/site_image.png)
+
+## Technologies Utilized 
+* Html 5 
+* CSS 3
+* Javascript
+* REACT
+* Firebase
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
